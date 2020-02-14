@@ -26,6 +26,6 @@ public class PenguinArea : Area
     	Destroy(fishObject);
     }
     public int FishRemaining{
-    	get { retun fishList.coun; }
+    	get { retun fishList.coun; }//
     }
 }
